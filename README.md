@@ -1,31 +1,14 @@
-### Hi there 👋
-
-<!--
-**nathanboschi25/nathanboschi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Salut 👋, Je suis Nathan BOSCHI</h1>
+<h1 align="center">Salut 👋, Je suis Nathan</h1>
 <h3 align="center">Etudiant en première année - BUT Informatique</h3>
 
 - 🔭 Je travaille actuellement sur [SAE S1 01-02 / StuckWin Game](https://github.com/nathanboschi25/StuckWin)
 
-- 🌱 I’m currently learning **Java, Python, PHP, C**
+- 🌱 J'apprends actuelement **Java, Python, PHP, C**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/nathanboschi25/nathanboschi25](https://github.com/nathanboschi25/nathanboschi25)
 
 - 📫 Comment me contacter ? **nathan.boschi@edu.univ-fcomte.fr**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
